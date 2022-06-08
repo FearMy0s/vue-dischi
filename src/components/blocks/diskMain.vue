@@ -1,6 +1,6 @@
 <template>
 <main>
-    <section-disk />
+    <sectionDisk />
 </main>
   
 </template>
