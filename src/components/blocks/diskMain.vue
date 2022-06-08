@@ -1,6 +1,7 @@
 <template>
 <main>
     <sectionDisk />
+    
 </main>
   
 </template>
@@ -16,5 +17,8 @@ export default {
 </script>
 
 <style>
+main{
+  background-color: black;
+}
 
 </style>
